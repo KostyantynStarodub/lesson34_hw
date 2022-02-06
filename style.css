@@ -1,0 +1,32 @@
+.box{
+    width: 500px;
+    height: 550px;
+    background-color: rgb(75, 184, 43);
+}
+.img1{
+    width: 400px;
+    height: 300px;
+    display: block;
+    margin: auto;
+    padding-top: 20px;
+}
+.box h1{
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
+.box p{
+    color: white;
+}
+.ancher{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.ancher a{
+    padding: 20px 20px;
+    background-color: rgb(236, 216, 37);
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    border-radius: 10px;
+}
